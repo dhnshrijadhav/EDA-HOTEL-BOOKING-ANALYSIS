@@ -80,19 +80,35 @@ Solution to Business Objective
 #####The hotel and resort business are doing good.Neither the revenue of bookings had negative trends.In order to have maximum success for the hotel group the resort business will need to find more ways to attract guests.They will also need to put more empasis towards other than BB -Meal as that is the maximum sold type meal for both hotel.The max guests are coming from Portugal,They have a sizeable portion of guests coming from other countries.the business has to make more spending in advertisement towards other countries so that this portion keeps increasing. As per the data parking spaces were not required by most of the guests.Hence they can look at other facilities to be given to guests instead of parking spaces.The hotel and resort both have cancellations, In order to decrease the rate of cancellation they have to find innovative ways. The data given shows that the longer the customer stays in the hotel/resort the greater is the revenue made by the Hotel. ####For overall business growth and to increase the rate of ADR we should find ways to retain customers for longer days.
 
 Overall conclusion:
+
 We found that 61.07% preferred city hotel and 38.93% preferred to book a resort hotel
+
 The city hotel has made more number of bookings in years 2016 and 2017.The resort did have more bookings in 2016 but there was a noticeable decline in 2017.
+
 The city hotels have more ADR that means City hotels Generate more Revenue than Resort Hotels
+
 91.6 % guests did not required the parking space. only 8.3 % guests required only 1 parking space.
+
 City hotel bookings had a higher waiting time.
+
 Here, we found that overall more than 27% of booking got cancelled
+
 The month of July and August had the most Bookings. Summer vaccation can be the reason for the bookings.
+
 Agent no. 9 and 240 made highest bookings, where as least number of bookings are made by agent no 1 and 6
+
 The maximum bookings have been done from Portugal,United Kingdom France and Spain.
+
 The maximum bookings is done through Online TA and Offline TA/TO.
+
 Room type A and D have been booked maximum in the last 3years.
+
 We have a very small percentage of clients repeating the hotel and though we have a large clientile
+
 From above insight we have found that the avrage stay length is 7 days for both types
+
 Bed and Breakfast(BB)is the most preferred type of booking for Guest.
+
 arrival_date_year and arrival_date_week_number columns has negative correlation which is -0.51 stays_in_week_nights and total_stay has positive correlation which is 0.95
+
 As the total number of people increases adr also increases.Thus adr and total people are directly proportional to each other.
